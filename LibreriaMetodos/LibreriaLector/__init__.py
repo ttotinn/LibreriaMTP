@@ -1,0 +1,1 @@
+from LibreriaLector.nucleo import ejecutar
