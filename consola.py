@@ -6,7 +6,7 @@ Ejecuta:  python consola.py
  
 import sys
 import re
-sys.path.append(r"D:\ProyectoMTP")  # ← cambia esto a tu ruta si es necesario
+#sys.path.append(r"D:\ProyectoMTP")  # ← cambia esto a tu ruta si es necesario
  
 from LibreriaLector import ejecutar, ejecutar_texto_compuesto, limpiar_almacenamiento
  
